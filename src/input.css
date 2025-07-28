@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.hlh {
+  line-height: 50px;
+}
+.slh {
+  line-height: 40px;
+}
+
+
+.TREH1 {
+  line-height: 1.2;
+}
+
+.xxx {
+  background-color: #6dcf93;
+  border-radius: 100px;
+  justify-content: center;
+  align-items: center;
+  width: 3rem;
+  height: 3rem;
+  font-size: 1.5rem;
+  display: flex;
+  padding: 20px;
+}
